@@ -1,4 +1,12 @@
 {
   "demo": {
+    "dev": {
+      "api": {
+        "host": "https://httpbin.org",
+        "path": {
+          "get": "/get"
+        }
+      }
+    }
   }
 }
