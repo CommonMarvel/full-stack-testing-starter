@@ -6,6 +6,10 @@
         "path": {
           "get": "/get"
         }
+      },
+      "selenium": {
+        "host": "https://www.google.com.tw",
+        "timeout": 300
       }
     }
   }
