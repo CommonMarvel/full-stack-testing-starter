@@ -1,5 +1,5 @@
-# full-stack-e2e-testing
-> this project want to do some automated testing stuff base on end to end testing
+# full-stack-testing
+> this project want to do some automated testing stuff including api, browser and mobile device
 
 ### Slides in Hackmd.io
 * https://hackmd.io/@m_DutsiYQdSG0m1spz8yIQ/H1pLeRiQI
