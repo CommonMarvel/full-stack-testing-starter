@@ -7,7 +7,6 @@
 * [Download Sourcetree](https://www.sourcetreeapp.com/)
 * [Install Python3](https://www.python.org/downloads/)
 * [Install PyCharm Community](https://www.jetbrains.com/pycharm/download/)
-* Unzip allure-commandline-2.13.1.zip
 
 ### Step
 * open Sourcetree and clone the project
