@@ -4,10 +4,12 @@
 ### slides in Hackmd.io
 * https://hackmd.io/@m_DutsiYQdSG0m1spz8yIQ/H1pLeRiQI
 
-### hi, newbies
+### hi, newbies 💂🏻
 * [Mom, I'm here](doc/Newbie.md)
 
-### setup venv
+- - -
+
+### setup venv ⚙️
 ```
 $ pip3 install virtualenv
 $ virtualenv venv
@@ -15,7 +17,7 @@ $ source venv/bin/activate
 $ deactivate
 ```
 
-### setup project interpreter
+### setup project interpreter (options, ide only)
 
 ### pip install
 ```
@@ -26,14 +28,13 @@ $ deactivate
 (venv) $ pip3 install selenium
 (venv) $ pip3 install Appium-Python-Client
 (venv) $ pip3 install allure-pytest
-
+```
+* after installed new library, you need to update requirements.txt
+```
 (venv) $ pip3 freeze | tee requirements.txt
 ```
-```
-(venv) $ pip3 freeze | xargs pip3 uninstall -y
-```
 
-### run test
+### run test 🧙‍♂️
 ```
 (venv) $ pytest -v -s
 (venv) $ pytest -v -s tests/api/demo/get_test.py
@@ -43,10 +44,12 @@ $ deactivate
 
 ### unzip allure/allure-commandline-2.13.1.zip
 
-### allure
+### run allure server to see the report 👀
 ```
 $ ./allure/allure-2.13.1/bin/allure serve build/allure_results
 ```
+
+- - -
 
 ### more information about pytest
 * https://docs.pytest.org/en/latest/reference.html
