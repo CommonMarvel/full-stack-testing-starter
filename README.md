@@ -1,4 +1,4 @@
-# full-stack-testing ![Cool Coverage](https://img.shields.io/badge/coverage-94.87%25-red) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+# full-stack-testing-starter ![Cool Coverage](https://img.shields.io/badge/coverage-94.87%25-red) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 > this project want to do some automated testing stuff including api, browser and mobile device
 
 ### slides in Hackmd.io
