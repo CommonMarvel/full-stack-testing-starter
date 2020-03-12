@@ -2,7 +2,7 @@
 > this project want to do some automated testing stuff including api, browser and mobile device
 
 ## slides in Hackmd.io
-* https://hackmd.io/@m_DutsiYQdSG0m1spz8yIQ/H1pLeRiQI
+* https://hackmd.io/@m_DutsiYQdSG0m1spz8yIQ/SyDTR6wBU#/
 
 ## hi, newbies 💂🏻
 * [Mom, I'm here](doc/Newbie.md)
