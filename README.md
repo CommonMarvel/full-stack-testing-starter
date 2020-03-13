@@ -5,7 +5,7 @@
 * https://hackmd.io/@m_DutsiYQdSG0m1spz8yIQ/SyDTR6wBU#/
 
 ## hi, newbies 💂🏻
-* [Mom, I'm here](doc/Newbie.md)
+* [Mom, I'm here](docs/Newbie.md)
 
 - - -
 
