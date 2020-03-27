@@ -3,6 +3,7 @@
 
 ## slides in Hackmd.io
 * https://hackmd.io/@m_DutsiYQdSG0m1spz8yIQ/SyDTR6wBU#/
+* https://slides.com/yfr984/full-stack-testing-starter
 
 ## hi, newbies 💂🏻
 * [Mom, I'm here](docs/Newbie.md)
